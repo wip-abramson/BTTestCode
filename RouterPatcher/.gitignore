@@ -1,0 +1,6 @@
+/bin/
+/src/
+/tests/
+/RouterPatcher/
+*.classpath
+*.class
